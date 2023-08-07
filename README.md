@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Just-Morayo
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning about Cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Security Analysis
 - 📫 How to reach me omorayo@ymail.com
 
 <!---
