@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Just-Morayo
-- 👀 I’m interested in Cloud services
-- 🌱 I’m currently learning about Clouds
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning about Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omorayo@ymail.com
 
